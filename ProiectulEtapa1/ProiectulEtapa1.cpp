@@ -162,30 +162,6 @@ int main()
 	cin >> ti;
 	cout << ti;
 
-	//cout << "Do you want a ticket?";
-	//cout << "1 = Yes" << endl;
-	//cout << "2 = No" << endl;
-	//int i;
-	//cin >> i;
-	//if (i == 1 || i == 2)
-	//{
-	//	switch (i)
-	//	{
-	//	case 1:
-	//	{
-	//	//metoda;
-	//		break;
-	//	}
-	//	case 2:
-	//	{
-	//		cout << "All right!" << endl;
-	//		break;
-	//	}
-	//	}
-	//}
-	//else
-	//{
-	//	cout << "Error";
-	//}
+	
 }
 
